@@ -4,3 +4,7 @@ auto farm blox fruit
 ```
 discord : soon
 ```
+~~
+```js
+loadstring(game:HttpGet('soon', true))()
+```
