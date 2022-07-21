@@ -6,5 +6,5 @@ discord : soon
 ```
 ~~
 ```js
-loadstring(game:HttpGet('soon', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/main/hub.lua.txt', true))()
 ```
