@@ -2,7 +2,7 @@
 Auto Kaitan roblox blox fruit
 auto farm blox fruit 
 ```
-discord : soon
+discord : https://discord.gg/Xcjah4fYK8
 ```
 ~~
 ```js
