@@ -11,5 +11,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/m
 ```
 ```lua
 V2
---
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/main/TAWANxHUB_V2.lua.txt', true))()
 ```
