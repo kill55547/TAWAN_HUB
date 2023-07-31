@@ -2,7 +2,7 @@
 Auto Kaitan roblox blox fruit
 auto farm blox fruit 
 ```
-discord : https://discord.gg/Xcjah4fYK8
+discord : ??
 ```
 
 ```lua
@@ -12,4 +12,8 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/m
 ```lua
 V2
 loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/main/TAWANxHUB_V2.lua.txt', true))()
+```
+```lua
+V3(new+bata)
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/main/Sora%20hub.lua.txt', true))()
 ```
