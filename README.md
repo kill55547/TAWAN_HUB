@@ -15,5 +15,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/m
 ```
 ```lua
 V3(new+bata)
-loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/main/sora.lua', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kill55547/TAWAN_HUB/main/sorabata.lua.txt', true))()
 ```
